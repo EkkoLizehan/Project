@@ -8,6 +8,6 @@
     <string name="enter_email">Enter Email Address</string>
     <string name="enter_password">Enter Password</string>
     <string name="create_account">Create Account</string>
-    <string name="goto_login">Already Have a Account?</string>
+    <string name="goto_login">Already Have an Account?</string>
 
 </resources>
