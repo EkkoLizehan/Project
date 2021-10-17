@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Project</string>
+    <string name="app_name">Seg2105</string>
+    <string name="fitness">fitness</string>
+    <string name="getStarted">Get Started!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="back">back</string>
+    <string name="enter_email">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="goto_login">Already Have a Account?</string>
+
 </resources>
