@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ekko/Documents/GitHub/Project/app/src/main/res/layout/activity_main.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Project/app/src/main/res/layout/activity_login.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Project/app/src/main/res/layout/activity_register.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/drawable/back.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/drawable/circle.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/layout/activity_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Ekko/Documents/GitHub/Seg2105/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2712962962962963" />
       </map>
     </option>
   </component>
