@@ -9,5 +9,12 @@
     <string name="enter_password">Enter Password</string>
     <string name="create_account">Create Account</string>
     <string name="goto_login">Already Have an Account?</string>
+    <string name="username">Enter Username</string>
+    <string name="age">Enter Age</string>
+    <string name="phoneNum">Enter Phone Number</string>
+    <string name="whory">Who Are You?</string>
+    <string name="r_instructor">Are you an instructor?</string>
+    <string name="enter_username">Enter Username</string>
+
 
 </resources>
