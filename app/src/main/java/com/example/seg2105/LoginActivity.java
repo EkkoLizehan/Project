@@ -6,11 +6,13 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.google.android.material.textfield.TextInputEditText;
 
 import org.w3c.dom.Text;
 
-public class LoginActivity extends MainActivity{
+public class LoginActivity extends AppCompatActivity {
 
     ImageButton btn1;
     Button btn2, btn3;
